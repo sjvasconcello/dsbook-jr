@@ -2,4 +2,4 @@
 
 Este es el respositorio para el futuro gitbook del ramo
 
-- Hola profe!
+- Chao profe!
